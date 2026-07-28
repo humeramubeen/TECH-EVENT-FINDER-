@@ -120,15 +120,7 @@ This project demonstrates:
 ---
 
 ## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-* Home Window
-* Event Search
-* Registration Window
-* Search Results
+<img width="1418" height="932" alt="Screenshot 2026-07-28 113356" src="https://github.com/user-attachments/assets/ea7e7d73-3da6-443f-ab88-0f641949b031" />
 
 ---
 
